@@ -1,4 +1,4 @@
-# Chat Bot Application
+# Chat Application
 
 ## Overview
 This project is a simple chat application built using Spring Boot and WebSockets.
